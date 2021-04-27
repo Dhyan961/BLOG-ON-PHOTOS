@@ -1,12 +1,16 @@
-body{
+#logo{
+  height: 300px;
+  width: 600px
+}
+.pics{
+    height: 270px;
+    width:270px;
+}
+.img-responsive{
+    height: 470px;
+    width: 470px;
     text-align: center;
-    background: cyan;
 }
-#p1{
-    font-size: 35px;
-}
-#img1,#img2,#img3,#img4{
-    height: 300px;
-    width: 400px;
-    margin: 30px;
+body{
+    background-color: yellow;
 }
